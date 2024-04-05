@@ -1,0 +1,14 @@
+{
+    "name": "eduardo/proyecto-igv",
+    "description": "Proyecto Pagina web, html, css, tailwindcss, php.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "3duu21",
+            "email": "e5470843@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
